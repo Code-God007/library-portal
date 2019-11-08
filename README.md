@@ -11,4 +11,6 @@ To start the app
 
 To start json-server
 
+### cd libraryData
+
 ### `json-server db.json --watch --port 4000`
