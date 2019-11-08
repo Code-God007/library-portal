@@ -1,0 +1,34 @@
+{
+  "bookList": [
+    {
+      "id": 1,
+      "name": "The Alchemist",
+      "author": "Paulo Coelho"
+    },
+    {
+      "id": 2,
+      "name": "The Subtle Art Of Not Giving A Fuck",
+      "author": "Mark Manson"
+    },
+    {
+      "id": 3,
+      "name": "The Girl on the Train",
+      "author": "Paula Hawkins"
+    },
+    {
+      "id": 4,
+      "name": "The Power Of Your Subconcious Mind",
+      "author": "Joseph Murphy"
+    },
+    {
+      "id": 5,
+      "name": "The Da Vinci Code",
+      "author": "Dan Brown"
+    },
+    {
+      "id": 6,
+      "name": "Harry Potter",
+      "author": "J.K Rowling"
+    }
+  ]
+}
